@@ -1,2 +1,3 @@
 # Protractor
-Test
+Please download the conf and the test files 
+
